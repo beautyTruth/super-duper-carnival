@@ -124,3 +124,5 @@ body {
   transition: all 0.3s ease-in-out;
   z-index: 5;
 }
+
+/* note that revealing a menu like this uses tons of system resources */
